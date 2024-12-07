@@ -513,4 +513,4 @@ dependencies:
       - opt-einsum==3.4.0
       - sentencepiece==0.2.0
       - sounddevice==0.5.1
-prefix: C:\Users\giang\anaconda3
+
