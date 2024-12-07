@@ -26,12 +26,12 @@ Per far funzionare questo progetto, sono necessari i seguenti requisiti:
    conda env create -f environment.yml
    ```
    ```bash
-   conda activate myrobotlab_env
+   conda activate Gruppo13
    ```
    
 3. Esegui il programma:
    ```bash
-   CloseOpenHaand.py
+   python CloseOpenHaand.py
    ```
    
 4. Configura MyRobotLab in virtuale e esegui su MRL il programma chiamato ProgrammaRobot.py .
