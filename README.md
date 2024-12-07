@@ -34,6 +34,6 @@ Per far funzionare questo progetto, sono necessari i seguenti requisiti:
    python CloseOpenHand.py
    ```
    
-4. Configura MyRobotLab in virtuale e esegui su MRL il programma chiamato ProgrammaRobot.py.
+4. Configura MyRobotLab in virtuale e esegui su MRL il programma chiamato ProgrammaRobot.py.  
 (riadattare file path per la rilettura del file JSON)
 
