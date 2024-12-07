@@ -11,15 +11,19 @@ Per far funzionare questo progetto, sono necessari i seguenti requisiti:
 - **Java Runtime Environment (JRE) 11+**
 
 ## Installazione
+
 1. Clona il repository:
    bash
    git clone https://github.com/tuo_username(github)/Gruppo13.git
+   bash
    nb:bisogna inserire il nome utente di github
+   bash
    cd Gruppo13
    
 2. Crea un ambiente virtuale:
    bash
    conda env create -f environment.yml
+   bash
    conda activate myrobotlab_env
    
 3. Esegui il programma:
