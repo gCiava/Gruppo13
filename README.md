@@ -14,22 +14,25 @@ Per far funzionare questo progetto, sono necessari i seguenti requisiti:
 
 1. Clona il repository:
    ```bash
-   - git clone https://github.com/tuo_username(github)/Gruppo13.git
-   ```bash
+   git clone https://github.com/tuo_username(github)/Gruppo13.git
+   ```
    nb:bisogna inserire il nome utente di github
    ```bash
    cd Gruppo13
-   ```bash
+   ```
    
 2. Crea un ambiente virtuale:
    ```bash
    conda env create -f environment.yml
+   ```
    ```bash
    conda activate myrobotlab_env
+   ```
    
 3. Esegui il programma:
    ```bash
-   python CloseOpenHaand.py
+   CloseOpenHaand.py
+   ```
    
 4. Configura MyRobotLab in virtuale e esegui su MRL il programma chiamato ProgrammaRobot.py .
 
