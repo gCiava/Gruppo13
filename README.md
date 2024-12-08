@@ -14,7 +14,7 @@ Per far funzionare questo progetto, sono necessari i seguenti requisiti:
 
 1. Clona il repository:
    ```bash
-   git clone https://github.com/tuo_username(github)/Gruppo13.git
+   git clone https://github.com/gCiava/Gruppo13.git
    ```
    nb:bisogna inserire il nome utente di github
    ```bash
